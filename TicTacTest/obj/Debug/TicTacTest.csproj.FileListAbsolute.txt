@@ -1,0 +1,7 @@
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\bin\Debug\TicTacTest.dll
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\bin\Debug\TicTacTest.pdb
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\obj\Debug\TicTacTest.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\obj\Debug\TicTacTest.dll
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\obj\Debug\TicTacTest.pdb
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\bin\Debug\Game.dll
+C:\Users\Adam\Desktop\A5GameLibrary20160718\TicTacTest\bin\Debug\Game.pdb

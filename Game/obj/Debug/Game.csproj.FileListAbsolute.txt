@@ -1,0 +1,5 @@
+C:\Users\Adam\Desktop\A5GameLibrary20160718\Game\bin\Debug\Game.dll
+C:\Users\Adam\Desktop\A5GameLibrary20160718\Game\bin\Debug\Game.pdb
+C:\Users\Adam\Desktop\A5GameLibrary20160718\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\A5GameLibrary20160718\Game\obj\Debug\Game.dll
+C:\Users\Adam\Desktop\A5GameLibrary20160718\Game\obj\Debug\Game.pdb
